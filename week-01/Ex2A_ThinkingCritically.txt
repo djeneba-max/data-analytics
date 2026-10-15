@@ -1,0 +1,99 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+
+a. Are the data accurate and reliable? Do they really represent what we are trying to measure?
+
+b. Could the methodology used introduce any bias and affect the results?
+
+
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+You can find Google Trends search data at: https://trends.google.com/trends/
+
+
+
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food,
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+Milkshake, with a relative value of 100.
+
+b) What is the lowest dip recorded?
+
+Milkshake, with a relative value of 65.
+
+
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search
+term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+
+Highest peak =100. Lowest dip =71.
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+
+After adding Hamburger, the line for Milkshake dropped and became much flatter. Before, Milkshake had a high of 100, and a low 65. Now its high is only about 35 and its low is about 23. 
+
+
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest
+over time” for more information about how trend results are displayed.
+
+This happens because Google Trends uses a relative scale where 100 is the highest point among all the terms on the graph. Hamburger is searched much more than Milkshake (average interest of 86 vs. 28), so Milkshake now looks much smaller. Its overall shape is the same (a dip in late 2024 and a rise in early 2025), but the values are lower.
+
+
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+
+There is no clear relationship between Breakup and Hamburger. Both terms are lower in the second half of 2024 than in the first half, but the timing does not match. Hamburger peaks at 100 around April–May 2024, while Breakup is dropping at that time (from 27 to 17). Breakup hits its lowest point (13) in July, while Hamburger is still fairly high (about 90). 
+From the end of the year to the beginning of the year, Hamburger rises from 71 back to 86, while Breakup stays almost flat (17–19). Hamburger is also much more searched overall (average of 86 vs. 19). The lines do not rise and fall together, so I cannot say the two are related.
+
+b) How about between Breakup and Milkshake?
+
+There is no strong relationship between Breakup and Milkshake either. Both lines are fairly low and stable compared to Hamburger, and both are lower in late 2024 than at the start of 2024. 
+But Milkshake stays close to 25–30 for most of the year, while Breakup falls from 27 to 17, goes back up (22), then drops again (13), before staying flat around 17. 
+In early 2025, Milkshake rises to 35, but Breakup does not follow it (it stays around 17–19). Milkshake’s average interest (28) is higher than Breakup’s (19), and the two lines do not move together in a consistent way.
+
+
+
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+
+This suggests that the article’s conclusions are not very reliable, for several reasons: 
+
+In our graph, searches for Breakup do not rise or fall at the same time as searches for Milkshake or Hamburger. If people really turned to milkshakes after breakups, we would expect the lines to move together. They don’t.
+
+The article treats high search interest as a sign of preference for a “breakup food.” But people search for milkshakes or hamburgers for many reasons (recipes, restaurants, deals, curiosity). A search does not show that someone is heartbroken, or even that they ate the food.
+
+Hamburger is searched far more than Milkshake (average interest of 86 vs. 28), yet the article says milkshake is the top breakup food in six states and burgers in only one.
+
+Even if two lines looked similar, that would not prove that one causes the other.
+
+
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore."
+
+Notice that this view includes a section for “Compared breakdown by subregion.”
+
+a) What was the top state by interest for Milkshake?
+
+Delaware
+
+b) What was the top state by interest for Hamburger?
+
+South Dakota
+
+
+
+
+

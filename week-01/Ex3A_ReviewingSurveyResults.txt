@@ -1,0 +1,164 @@
+1)What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+1. What conclusion can you reach about the responses to this question?
+
+Most students have similar strategies to prepare for class, such as logging in a few minutes early, preparing the necessary materials, and reviewing their notes.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+The default summary is not very helpful because it shows the most frequently used words without providing the context of the sentences. We have to guess the context based on the question, which could affect our interpretation.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+Not applicable to this question.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+It was not easy to identify patterns because students expressed their ideas in different words and sentences. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+I would suggest providing multiple-choice options, such as logging in early, reviewing notes, and preparing materials, along with an “Other” option where students can provide their own answers
+
+
+
+
+
+
+2)Do you have a second monitor connected to your computer?
+
+1. What conclusion can you reach about the responses to this question?
+
+About half of the class does not have a second monitor, while the other half selected “Yes” or “Other.”
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+Yes, it is helpful because it provides an overview of the responses and their percentages, making it easier to understand the results.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+You can find the additional details by clicking on “More Details.”
+But then, it is not easy to identify which responses belong to the “Other” option.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+N/A.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+I would not change the question itself. Instead, I would improve how the responses are displayed to make them easier to read and analyze.
+
+
+
+3)Do you have an external keyboard and mouse?
+
+1. What conclusion can you reach about the responses to this question?
+
+About half of the class does not have an external keyboard and mouse, while the other half selected “Yes” or “Other.”
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+Yes, it is helpful because it shows the distribution of responses and their percentages, making it easy to compare the results.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+You can find the additional details by clicking on “More Details.”
+But then, it is not easy to identify which responses belong to the “Other” option.
+
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+N/A
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+I would not change the question itself. Instead, I would improve how the responses are displayed to make them easier to read and analyze.
+
+
+4)How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+
+1. What conclusion can you reach about the responses to this question?
+
+Students have relatively similar responses about how they plan to take notes for the class, but this may also be influenced by the limited number of response options available.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+No, it is not helpful because the chart shows 100% under “Other,” which does not provide meaningful information about students’ note-taking methods. It would be better to display the actual responses.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+You can find the additional details by clicking on “More Details.” However, the text options associated with “Other” seem limited and do not allow students to fully explain their answers.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+There was no space for students to write their answers. Instead, they only had one option to select, making it difficult to understand their individual note-taking preferences.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+I would provide a text field where students can describe their preferred note-taking method, especially if none of the available options matches their needs.
+
+
+
+5)What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+1. What conclusion can you reach about the responses to this question?
+
+Students provided a variety of answers to this question. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+No, it is not very helpful because it shows the most frequently used words without providing the context of the sentences. Reading the full responses would make it easier to understand what students are asking.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+N/A.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+Students' responses are different and varied, which makes it difficult to identify common trends or patterns.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+I would keep the question as it is because it allows students to freely express their questions and concerns about the course. This can help the instructor better understand their needs.
+
+
+
+Next respond to the below questions:
+
+6. Is there anything that surprised you about the survey responses?
+
+Questions 2 and 3 had exactly the same percentages of responses. However, what surprised me the most was the survey itself and how it was designed.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+I would try to be in the meeting room 15 minutes before class starts to give myself enough time to prepare and make sure everything is ready.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+I can adapt my teaching methods based on the materials and resources available to my students to make sure they can follow the lessons effectively.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+I think making the survey anonymous was helpful because students may feel more comfortable sharing their honest opinions and experiences without worrying about being judged. However, anonymity makes it difficult for the instructor to follow up with individual students who may need additional support.
+
+
+

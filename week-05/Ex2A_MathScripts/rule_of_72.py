@@ -1,4 +1,6 @@
 # 5.
+# The formula appears to be: 
+
 current_savings = 1000
 ir = 6
 year_to_double = 72/ir

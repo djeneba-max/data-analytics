@@ -6,12 +6,18 @@ sales_data = [
 ('Bob Nguyen', 'West', 4980.25),
 ]
 
+total_sales = 0
+
 for record in sales_data: 
     print(f'{record[0]} ({record[1]}): ${record[2]:.2f}')
       
     if record[2] > 5000:
         print('^ Top performer!')
-        
+
+    total_sales += record[2]
+
+print(f'\nOverall sales: ${total_sales:,.2f}')
+
 # or
 #for name, region, sales in sales_data:
     #print(f'{name} ({region}): ${sales:,.2f}')

@@ -13,6 +13,7 @@ class Product:
 # self.price, instance variable → stocke le prix du produit.
 
 # optional : '''...''' → docstring qui décrit le rôle de la classe. Il doit etre a l'interieur de la classe.
+
 #====================================================================
 # 2. Créer des objets à partir de la class
 
@@ -28,6 +29,10 @@ product2 = Product("Keyboard", 50)
 
 print(product1.name)        # Laptop
 print(product1.price)       # 800
+
+# self.attribut → à l'intérieur des méthodes de la classe.
+# nom_objet.attribut → à l'extérieur de la classe, pour accéder aux informations d'un objet.
+# En réalité, self représente l'objet lui-même. C'est pourquoi les deux syntaxes permettent d'accéder au même attribut, mais dans des contextes différents.
 
 #====================================================================
 # 4. Ajouter une action (method)
@@ -50,7 +55,6 @@ product1 = Product("Laptop", 800)
 
 product1.display_info()   #Laptop 800
 
-
 #====================================================================
 # 5. Pass
 
@@ -71,7 +75,6 @@ def calculate_price():
 
 # Tu définis une fonction, mais tu n'as pas encore écrit ce qu'elle doit faire.
 
-
 #====================================================================
 # Une fonction (def) permet de regrouper des instructions pour effectuer une tâche.
 
@@ -90,4 +93,4 @@ def calculate_price():
 # - Les méthodes = les actions que chaque produit peut effectuer.
 
 
-# une classe permet de créer plusieurs objets qui partagent les mêmes méthodes, mais qui peuvent avoir des attributs différents.
+# Une classe permet de créer plusieurs objets qui partagent les mêmes méthodes, mais qui peuvent avoir des attributs différents.

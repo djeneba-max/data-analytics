@@ -83,7 +83,7 @@ print("Next 100 characters, as list by line, rounded up to complete lines:", rem
 
 
 
-
+f.close()
 
 
 
